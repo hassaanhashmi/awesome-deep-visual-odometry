@@ -13,6 +13,7 @@
 |2017| Unsupervised Learning of Depth and Ego-Motion from Video | [pdf][u1] | [repo][uc1] | [website][uw1] |
 |2017| UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning | [pdf][u2] | - | [website][uw2] |
 |2019| GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks | [pdf][u3] | - | - |
+|2019| Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video | [pdf][u4] | [repo][uc4] | [website][uw4] |
 
 ## Combining Learning and Geometry methods
 
@@ -34,6 +35,7 @@
 [u1]: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.pdf
 [u2]:  https://arxiv.org/pdf/1709.06841.pdf
 [u3]:  https://arxiv.org/pdf/1809.05786.pdf
+[u4]: https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf
 
 <combined>
 
@@ -49,6 +51,7 @@
 <self-supervised>
   
 [uc1]: https://github.com/tinghuiz/SfMLearner
+[uc4]: https://github.com/JiawangBian/SC-SfMLearner-Release
   
 <combined>
   
@@ -65,6 +68,7 @@
 
 [uw1]: https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/
 [uw2]: http://senwang.gitlab.io/UnDeepVO/
+[uw4]: https://jwbian.net/sc-sfmlearner
 
 
 <combined>
