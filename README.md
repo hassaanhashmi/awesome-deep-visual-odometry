@@ -2,17 +2,23 @@
 
 ## Supervised Learning
 
-\[1\] DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks [PDF][s1] | [code][sc1] | [website][sw1]
+|Year| Title | Doc | Code | Other |
+|:-:|:-:|:-:|:-:|:-:|
+|2017| DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks | [PDF][s1] | [code][sc1] | [website][sw1] |
 
 ## Self-Supervised Learning
 
-\[1\] UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning [PDF][u1] | [website][uw1]
-
-\[2\] GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks [PDF][u2]
+|Year| Title | Doc | Code | Other |
+|:-:|:-:|:-:|:-:|:-:|
+|2017| UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning| [PDF][u1] | - | [website][uw1] |
+|2019| GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks | [PDF][u2] | - | - |
 
 ## Combining Learning and Geometry methods
 
-\[1\] Visual Odometry Revisited: What Should Be Learnt? [PDF][c1] | [code][cc1]
+|Year| Title | Doc | Code | Other |
+|:-:|:-:|:-:|:-:|:-:|
+|2019| Visual Odometry Revisited: What Should Be Learnt?| [PDF][c1] | [code][cc1] | - |
+
 
 
 
