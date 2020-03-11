@@ -1,4 +1,4 @@
-# Awesome Visual Odometry
+# Awesome Deep Visual Odometry
 
 ## Supervised Learning
 
