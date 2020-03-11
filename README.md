@@ -14,8 +14,8 @@
 |2017| UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning | [pdf][u2] | - | [website][uw2] |
 |2018| Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction | [pdf][u3] | [repo][uc3] | - |
 |2018| Digging Into Self-Supervised Monocular Depth Estimation | [pdf][u4] | [repo][uc4] | - |
-|2019| GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks | [pdf][u4] | - | - |
-|2019| Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video | [pdf][u5] | [repo][uc5] | [website][uw5] |
+|2019| GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks | [pdf][u5] | - | - |
+|2019| Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video | [pdf][u6] | [repo][uc6] | [website][uw6] |
 
 ## Combining Learning and Geometry methods
 
@@ -76,7 +76,7 @@
 
 [uw1]: https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/
 [uw2]: http://senwang.gitlab.io/UnDeepVO/
-[uw5]: https://jwbian.net/sc-sfmlearner
+[uw6]: https://jwbian.net/sc-sfmlearner
 
 
 <combined>
