@@ -17,6 +17,7 @@
 |2019| GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks | [pdf][u5] | - | - |
 |2019| Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video | [pdf][u6] | [repo][uc6] | [website][uw6] |
 |2020| D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry | [pdf][u7] | - | [website][uw7] |
+|2020| Towards Better Generalization: Joint Depth-Pose Learning without PoseNet | [pdf][u8] | [repo][uc8] | [video][uw8] |
 
 ## Combining Learning and Geometry methods
 
@@ -43,6 +44,7 @@
 [u5]: https://arxiv.org/pdf/1809.05786.pdf
 [u6]: https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf
 [u7]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_D3VO_Deep_Depth_Deep_Pose_and_Deep_Uncertainty_for_Monocular_CVPR_2020_paper.pdf
+[u8]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Towards_Better_Generalization_Joint_Depth-Pose_Learning_Without_PoseNet_CVPR_2020_paper.pdf
 
 <combined>
 
@@ -62,6 +64,7 @@
 [uc3]: https://github.com/Huangying-Zhan/Depth-VO-Feat
 [uc4]: https://github.com/nianticlabs/monodepth2
 [uc6]: https://github.com/JiawangBian/SC-SfMLearner-Release
+[uc8]: https://github.com/B1ueber2y/TrianFlow
   
 <combined>
   
@@ -80,6 +83,7 @@
 [uw2]: http://senwang.gitlab.io/UnDeepVO
 [uw6]: https://jwbian.net/sc-sfmlearner
 [uw7]: https://vision.in.tum.de/research/vslam/d3vo
+[uw8]: https://www.youtube.com/watch?v=OVqqNdlwLbU
 
 
 <combined>
