@@ -25,6 +25,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |2019| Pose Graph Optimization for Unsupervised Monocular Visual Odometry |[pdf][c1]| - | - |
 |2019| Visual Odometry Revisited: What Should Be Learnt?| [pdf][c2] | [repo][cc2] | - |
+|2021| DF-VO: What Should Be Learnt for Visual Odometry?| [pdf][c3] | [repo][cc3] | [video][cw3] |
 
 
 
@@ -50,6 +51,7 @@
 
 [c1]: https://arxiv.org/pdf/1903.06315.pdf
 [c2]: https://arxiv.org/pdf/1909.09803.pdf
+[c3]: https://arxiv.org/pdf/2103.00933.pdf
 
 
 <CODE LINKS>
@@ -69,6 +71,7 @@
 <combined>
   
 [cc2]:  https://github.com/Huangying-Zhan/DF-VO
+[cc3]:  https://github.com/Huangying-Zhan/DF-VO
 
 
 <WEB LINKS>
@@ -85,8 +88,9 @@
 [uw7]: https://vision.in.tum.de/research/vslam/d3vo
 [uw8]: https://www.youtube.com/watch?v=OVqqNdlwLbU
 
-
 <combined>
+
+[cw3]: https://www.youtube.com/watch?v=Nl8mFU4SJKY
 
 
 
