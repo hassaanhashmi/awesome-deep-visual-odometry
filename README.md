@@ -29,9 +29,6 @@
 |2021| Generalizing to the Open World: Deep Visual Odometry with Online Adaptation| [pdf][c4] | - | [article (CN)][cw4] |
 |2022| DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry| [pdf][c5] | - | - |
 
-
-
-
 <Paper links>
 
 <supervised>
@@ -57,7 +54,7 @@
 [c4]: https://arxiv.org/pdf/2103.15279.pdf
 [c5]: https://arxiv.org/pdf/2105.09899.pdf
 
-<CODE LINKS>
+<SourceCode LINKS>
   
 <supervised>
   
