@@ -26,6 +26,8 @@
 |2019| Pose Graph Optimization for Unsupervised Monocular Visual Odometry |[pdf][c1]| - | - |
 |2019| Visual Odometry Revisited: What Should Be Learnt?| [pdf][c2] | [repo][cc2] | - |
 |2021| DF-VO: What Should Be Learnt for Visual Odometry?| [pdf][c3] | [repo][cc3] | [video][cw3] |
+|2021| Generalizing to the Open World: Deep Visual Odometry with Online Adaptation| [pdf][c4] | - | [article (CN)][cw4] |
+|2022| DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry| [pdf][c5] | - | - |
 
 
 
@@ -52,7 +54,8 @@
 [c1]: https://arxiv.org/pdf/1903.06315.pdf
 [c2]: https://arxiv.org/pdf/1909.09803.pdf
 [c3]: https://arxiv.org/pdf/2103.00933.pdf
-
+[c4]: https://arxiv.org/pdf/2103.15279.pdf
+[c5]: https://arxiv.org/pdf/2105.09899.pdf
 
 <CODE LINKS>
   
@@ -91,6 +94,6 @@
 <combined>
 
 [cw3]: https://www.youtube.com/watch?v=Nl8mFU4SJKY
-
+[cw4]: https://blog.csdn.net/qq_43310834/article/details/120367999
 
 
